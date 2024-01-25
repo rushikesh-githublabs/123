@@ -1,0 +1,22 @@
+search --> cmd
+git --version
+
+C:\Users\Rushi-yt>git --version
+git version 2.43.0.windows.1
+__________________________________
+
+Creating Github account:
+https://github.com/
+
+
+Repository:
+windows -->Folders
+Github --> Repository
+
+Note: dont use capital Letters
+Note2: dont provide any space between words
+
+
+
+linux/ git terminal commands:
+ls - list the files and directories
