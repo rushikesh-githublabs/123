@@ -1,0 +1,70 @@
+
+DAY 3 Git and Github
+https://git-scm.com/downloads
+
+
+1.Install git (done)
+2.github account create (done)
+3.push code from desktop(local) to github.com  (10Min)
+
+
+git config --global user.name "rushikesh"
+git config --global user.email "rushikesh@gmail.com"
+
+
+https://github.com/
+
+
+Repositories in github
+Folders in windows
+
+
+ls ( to see/ list files or directories)
+
+
+ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+https://online-test.classplusapp.com/attempt/?testId=65b06d6abbc1087c19559ee3
+
+___________________________________
+
+ERRORS:
+1.
+2.
+3.
+4.
+
+
+Today commands:
+ git add file.txt
+   94  git add file1.txt
+   95  git status
+   96  git commit -m "file1 done on login page"
+   97  git log
+   98  git remote add origin https://github.com/rushikesh-githublabs/amazon-login.git
+   99  git push -u origin
+  100  git push -u origin master
+  101  ls
+  102  git add .
+  103  git status
+  104  git commit -m "data done"
+  105  git log
+  106  git push -u origin master
+  107  git init
+  108  git status
+  109  git add *
+  110  git status
+  111  git config --global user.name "rushikesh"
+  112  git config --global user.name "rushikesh@gmail.com"
+  113  git commit -m "all done"
+  114  git remote add origin https://github.com/rushikesh-githublabs/amazonlogout.git
+  115  git push -u origin master
+  116  git log
+  117  history
+
+
+devopsbyrushi@gmail.com
+
+
+
